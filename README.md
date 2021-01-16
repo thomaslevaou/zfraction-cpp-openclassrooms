@@ -10,7 +10,7 @@ A l'exécution du programme dans une fenêtre de commande, le résultat suivant 
 a est plus grand que b.
 ```
 Pour afficher ce résultat, le code crée des instances d'une classe intitulée "ZFraction",
-qui permet de calculer des fractions selon les règles standard de calcul des fractions.
+qui permet de faire des calculs sur des fractions, selon les règles standard de ce calcul.
 Chaque fraction est automatiquement simplifiée à partir d'un calcul de PGCD.
 
 Après avoir cloné ce projet, le programme peut être exécuté en entrant les commandes suivantes
